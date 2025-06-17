@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloJenkins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1897aca9787156d2a906df7c33b9207aa0f8262")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloJenkins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloJenkins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
